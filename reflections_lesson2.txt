@@ -1,2 +1,5 @@
 How can you use the staging area to make sure you have one commit per logical change?
 - You can use 'git diff --staged' to make the changes you are about to commit are only for one logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Adding new test features, doing simple tests, etc.

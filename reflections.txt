@@ -1,0 +1,6 @@
+How might using version control make you more confident to make changes that could break something?
+- Using version control lets you revisit your changes easily, which is not possible without version control and you would need to remember all your changes to find newly introduced bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- I will use Git for creating my own app!
+
